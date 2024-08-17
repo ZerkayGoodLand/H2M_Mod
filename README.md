@@ -15,10 +15,15 @@ Une fois cela fait dezziper le fichier.
 Ensuite: 
 
 - Télécharger les torrents.
+  
 - Le torrent [H1 + H2M] est le fichier principal.
+  
 - Une fois tout les fichiers torrent télécharger, glisser les dossiers : [Just h2m-mod] et [h2m-usermaps] à la racine du dossier [Call of Duty Modern Warfare Remastered].
+  
 - Vous aurez un messages pour remplacer certains fichier, faite le.
+  
 - Dans le [Call of Duty Modern Warfare Remastered] vous y trouver l'application [h2m-mod] cliqué dessus et le jeu ce lancera.
+  
 - Pour avoir la liste des server depuis l'application, glisser le fichier [favourites.json] dans le dossier [player2] qui ce trouve dans le dossier [Call of Duty Modern Warfare Remastered].
 
 # InGame
